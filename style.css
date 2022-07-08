@@ -1,0 +1,31 @@
+#heading1{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#attemptLabel{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#heading{
+    font-size: xx-large;
+}
+#textLabel{
+    font-style: italic;
+    font-size: 25px;
+}
+*{
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+body{
+    background-image: linear-gradient(purple,orange);
+    height: 1000px;
+}
+#attemptsCount{
+    background-color: darkorchid;
+    height: 40px;
+    margin-inline: 722px;
+    border-radius: 300px;
+    transform: translate(0px,0px);
+}
